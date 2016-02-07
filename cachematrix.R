@@ -1,6 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-#The below functions helps to inverse a matrix and cache. Also when required the functions has capability to return inverse from cache instead of recalculation
+#The below functions helps to inverse a matrix and cache. Also when required the functions has capability to 
+#return inverse from cache instead of recalculation
 ## Write a short comment describing this function
 #This function creates a special "matrix" object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
